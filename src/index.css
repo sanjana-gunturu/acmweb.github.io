@@ -5,9 +5,46 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(220, 243, 255);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+.head{
+  font-size: 3rem;
+}
+.intro{
+  font-size: 1.2rem;
+  font-family: 'Cinzel Decorative', cursive;
+  font-family: 'Courgette', cursive;
+  font-family: 'EB Garamond', serif;
+  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Niconne', cursive;
+}
+/* table {
+  border: 2px solid black;
+  width: 1200px;
+  height: 200px;
+} */
+  
+/* th {
+  border-bottom: 1px solid black;
+} */
+.table {
+  margin: 0 auto;
+  width: 100%;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  border-left:2px solid black;
+  border-right:2px solid black;
+  font-family: 'Cinzel Decorative', cursive;
+font-family: 'Courgette', cursive;
+font-family: 'EB Garamond', serif;
+font-family: 'Nanum Myeongjo', serif;
+font-family: 'Niconne', cursive;
+}
+tr:hover{
+  background-color:rgb(123, 197, 237);
 }
