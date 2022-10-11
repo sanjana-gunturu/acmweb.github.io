@@ -2,18 +2,18 @@ body {
   margin: 0;
   font-family: 'Cinzel Decorative', cursive;
 font-family: 'Courgette', cursive;
+font-family: 'Crimson Text', serif;
 font-family: 'EB Garamond', serif;
 font-family: 'Nanum Myeongjo', serif;
 font-family: 'Niconne', cursive;
 font-family: 'Source Sans Pro', sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   background-color: rgb(220, 243, 255);
 }
 
 code {
   font-family: 'Cinzel Decorative', cursive;
 font-family: 'Courgette', cursive;
+font-family: 'Crimson Text', serif;
 font-family: 'EB Garamond', serif;
 font-family: 'Nanum Myeongjo', serif;
 font-family: 'Niconne', cursive;
@@ -27,6 +27,7 @@ font-family: 'Source Sans Pro', sans-serif;
   /* font-size: 1.2rem; */
   font-family: 'Cinzel Decorative', cursive;
 font-family: 'Courgette', cursive;
+font-family: 'Crimson Text', serif;
 font-family: 'EB Garamond', serif;
 font-family: 'Nanum Myeongjo', serif;
 font-family: 'Niconne', cursive;
@@ -50,11 +51,12 @@ font-family: 'Source Sans Pro', sans-serif;
   border-left:2px solid black;
   border-right:2px solid black;
   font-family: 'Cinzel Decorative', cursive;
-font-family: 'Courgette', cursive;
-font-family: 'EB Garamond', serif;
-font-family: 'Nanum Myeongjo', serif;
-font-family: 'Niconne', cursive;
-font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Courgette', cursive;
+  font-family: 'Crimson Text', serif;
+  font-family: 'EB Garamond', serif;
+  font-family: 'Nanum Myeongjo', serif;
+  font-family: 'Niconne', cursive;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 tr:hover{
   background-color:rgb(123, 197, 237);
